@@ -1,5 +1,5 @@
 --Creating Tables
-/* I have 5 taables(Users, Job Seekers, Employers, Jobs and Applications)*/
+/* I have 5 tables(Users, Job Seekers, Employers, Jobs and Applications)*/
 -- Creating Users table
 CREATE TABLE Users (
     user_id NUMBER PRIMARY KEY,
@@ -169,6 +169,7 @@ desc Employers;
 desc Applications;
 --Commit changes
 commit;
+
 
 
 
